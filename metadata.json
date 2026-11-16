@@ -1,0 +1,8 @@
+{
+  "name": "Assistant Professor Dr. Faisal Amin Ahmed - Orthopedic Spine & Trauma Surgeon",
+  "description": "Clinical portfolio, real-time appointments, patient history reference, and secure patient portal for Assistant Professor Dr. Faisal Amin Ahmed (Foysol).",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
